@@ -2,4 +2,4 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-[![Gmail Badge](https://img.shields.io/badge/-akbaraliongo4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbaraliongo@gmail.com)](mailto:akbaraliongo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-akbaraliongo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbaraliongo@gmail.com)](mailto:akbaraliongo@gmail.com)

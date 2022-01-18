@@ -6,4 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulimoodan" alt="MarikIshtar007" /> </p>
 
-```Don't comment bad code - rewrite it.```
+```
+
+Don't comment bad code - rewrite it.
+
+```

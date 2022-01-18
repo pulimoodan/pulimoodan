@@ -2,4 +2,4 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<a href="https://twitter.com/intent/tweet?screen_name=TwitterDev&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Gmail Badge](https://img.shields.io/badge/-akbaraliongo4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbaraliongo@gmail.com)](mailto:akbaraliongo@gmail.com)

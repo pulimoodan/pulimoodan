@@ -11,3 +11,9 @@
 Don't comment bad code - rewrite it.
 
 ```
+
+## :computer: Technologies I Love
+* Flutter
+* Django
+* React
+* Postgresql

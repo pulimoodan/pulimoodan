@@ -28,7 +28,7 @@ Don't comment bad code - rewrite it.
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Akbar Ali'
+ 	name = 'Akbar Ali'
 		profession = "Full Stack Web Developer"
 		hobbies = [
 				'Drawing',
@@ -45,3 +45,6 @@ Don't comment bad code - rewrite it.
 		return [travelTheWorld(), makeSomeMovies(), writeSomeBooks()]
 	
  ```
+
+
+![Akbar's github stats](https://github-readme-stats.vercel.app/api?username=pulimoodan&show_icons=true&hide=[%22issues%22])

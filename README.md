@@ -23,3 +23,27 @@ Don't comment bad code - rewrite it.
 
 ## Programming Languages
 <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/cpp.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/css3.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/dart.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/html5.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/javascript.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/php.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/python.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/sql.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/csharp.png' width='30'/> <img src = 'https://github.com/MrSquaare/icongram/blob/master/png/rounded/java.png' width='30'/>
+
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Akbar Ali'
+		profession = "Full Stack Web Developer"
+		hobbies = [
+				'Drawing',
+        'Writing',
+				'Watching Movies',
+				'Reading'
+				'Coding'
+			]
+	
+	def getCity():
+		return contries.get('India').states.get('Kerala')
+	
+	def getAmbitions():
+		travelTheWorld()
+		makeSomeMovies()
+		writeSomeBooks()
+	
+ ```

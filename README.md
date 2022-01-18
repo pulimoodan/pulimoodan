@@ -32,7 +32,7 @@ Don't comment bad code - rewrite it.
 		profession = "Full Stack Web Developer"
 		hobbies = [
 				'Drawing',
-        'Writing',
+        			'Writing',
 				'Watching Movies',
 				'Reading'
 				'Coding'
@@ -42,8 +42,6 @@ Don't comment bad code - rewrite it.
 		return contries.get('India').states.get('Kerala')
 	
 	def getAmbitions():
-		travelTheWorld()
-		makeSomeMovies()
-		writeSomeBooks()
+		return [travelTheWorld(), makeSomeMovies(), writeSomeBooks()]
 	
  ```

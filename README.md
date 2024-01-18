@@ -1,3 +1,3 @@
 # :v: Hi there, I am Akbar
 
-I talk shit here: [My twitter handle](https://twitter.com/pulimoodanhere)
+My twitter handle: [@pulimoodan](https://twitter.com/pulimoodanhere)
